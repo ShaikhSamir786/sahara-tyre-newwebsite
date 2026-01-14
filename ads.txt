@@ -1,4 +1,1 @@
-# ads.txt file for [https://sahara-tyre-newwebsite.vercel.app/]
-# Authorized Digital Sellers - Google AdSense
-
 google.com, pub-2685457296914833, DIRECT, f08c47fec0942fa0
